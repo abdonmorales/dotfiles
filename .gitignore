@@ -1,0 +1,4 @@
+# Ignore these shitty system files
+
+.swp
+.DS_Store
