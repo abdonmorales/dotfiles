@@ -104,4 +104,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # Exporting path for binaries contained in my user directory
-export PATH="$HOME/bin:$PATH"
+export PATH="$HOME/.config/emacs/bin:$HOME/bin:$PATH"
